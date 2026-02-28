@@ -25,7 +25,7 @@
 ## 🛠 I Code With
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,postman,firebase,docker,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,mongoose,redux,tailwind,java,python,git,github,npm,postman,firebase,docker,gcp,linux,vscode&perline=8" />
 </p>
 
 ---
@@ -35,14 +35,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitojha121212&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ankitojha121212/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -62,10 +54,10 @@
 
 ## 💡 Current Focus
 
-- 🚀 Building scalable MERN applications
+- 🚀 Building scalable MERN applications and Apps using the React Native for cross appliction Development
 - 📈 Improving DSA & Problem Solving
 - 🧠 Learning System Design fundamentals
-- 🌍 Looking for impactful internship opportunities
+- 🌍 Deployment using Google Cloud , CI/CD , Dockerization
 <!--
 **Ankitojha121212/ankitojha121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
