@@ -1,34 +1,90 @@
-## Hi there 👋
-# Hi 👋 I'm Ankit Ojha
+<h1 align="center">Hi 👋, I'm Ankit Ojha</h1>
+<h3 align="center">Full Stack MERN Developer | Frontend Focused | DSA Enthusiast</h3>
 
-🚀 Full Stack Developer (MERN)  
-💻 Frontend Focused | DSA Enthusiast  
-📍 Jaipur, Rajasthan  
-🎯 Seeking Internship Opportunities  
-
----
-
-## 🛠 Tech Stack
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Database: MongoDB
-- Tools: Git, Postman, Cloudinary
+<p align="center">
+  📍 Jaipur, Rajasthan <br>
+  🎓 B.Tech CSE (2022–2026) <br>
+  🚀 Actively Seeking Internship Opportunities
+</p>
 
 ---
 
-## 🚀 Projects
-### 🏨 Airbnb Clone
-- Full-stack MERN project
-- Image upload with Cloudinary
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitojha121212&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha121212&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠 I Code With
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,postman,firebase,docker,redux,tailwind" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 Airbnb-Style Booking Platform
+- Full Stack MERN Application
 - Authentication with JWT
+- Image Upload with Cloudinary
+- Booking & Driver Management System
 
-### 📊 Swachhta Dashboard
-- AI-based image monitoring system
-- Built for post office monitoring
+### 📊 Swachhta Monitoring Dashboard
+- AI-powered image monitoring
+- Geo-based zone filtering
+- Admin dashboard with analytics
+
+### 📚 DSA Journey
+- Daily LeetCode practice
+- Topics: Stack, Queue, LinkedList, Binary Search
+- Consistent 50+ days streak
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ankitojha121212@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 💡 Current Focus
+
+- 🚀 Building scalable MERN applications
+- 📈 Improving DSA & Problem Solving
+- 🧠 Learning System Design fundamentals
+- 🌍 Looking for impactful internship opportunities
 <!--
 **Ankitojha121212/ankitojha121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
