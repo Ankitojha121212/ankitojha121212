@@ -25,7 +25,7 @@
 ## 🛠 I Code With
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,express,mongodb,mongoose,redux,tailwind,java,python,git,github,npm,postman,firebase,docker,gcp,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,nodejs,express,mongodb,mongoose,redux,tailwind,java,python,git,github,npm,postman,firebase,docker,gcp,linux,vscode&perline=8" />
 </p>
 
 ---
