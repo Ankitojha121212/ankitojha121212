@@ -30,30 +30,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏨 Airbnb-Style Booking Platform
-- Full Stack MERN Application
-- Authentication with JWT
-- Image Upload with Cloudinary
-- Booking & Driver Management System
-
-### 📊 Swachhta Monitoring Dashboard
-- AI-powered image monitoring
-- Geo-based zone filtering
-- Admin dashboard with analytics
-
-### 📚 DSA Journey
-- Daily LeetCode practice
-- Topics: Stack, Queue, LinkedList, Binary Search
-- Consistent 50+ days streak
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitojha121212&theme=tokyonight" />
 </p>
 
 ---
@@ -61,7 +42,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ankitojha121212/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
