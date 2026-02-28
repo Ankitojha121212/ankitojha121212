@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Ojha</h1>
-<h3 align="center">Full Stack MERN Developer | Frontend Focused | DSA Enthusiast</h3>
+<h3 align="center">Full Stack MERN Developer | React Native Development | Deployment </h3>
 
 <p align="center">
   📍 Jaipur, Rajasthan <br>
-  🎓 B.Tech CSE (2022–2026) <br>
-  🚀 Actively Seeking Internship Opportunities
+  🎓 B.Tech CSE Graduate <br>
+  🚀 Learning = Earning
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/ankit-ojha-927488272/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ankitojha121212@gmail.com">
